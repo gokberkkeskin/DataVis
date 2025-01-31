@@ -1,3 +1,4 @@
+-- Sample query to be used in DB Comparison tab
 select * from
 db1.TBL_REPORT_COUNTS
 JOIN db2.TBL_REPORT_COUNTS
